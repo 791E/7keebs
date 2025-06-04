@@ -14,3 +14,6 @@ s - split keyboard\
 ## Keyboards
 The keyboards are listed in the order in which I made them (oldest first).
 - [h70](./h70/): A handwired 70 key keyboard
+
+## Licensing
+Unless explicitly stated otherwise, everything is licensed under the MIT license. See [LICENSE](./LICENSE) for more information.
