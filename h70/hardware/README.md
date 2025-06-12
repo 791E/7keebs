@@ -11,9 +11,9 @@ However, the board could easily be adapted to any other kind of switch,
 by uploading [the layout file](./keyboard-layout.json) to <http://builder.swillkb.com/>
 and selecting the desired settings.
 
-The svg file you'll find in this directory was created with laser cutting in mind,
+The [svg file](./lasercutter-template.svg) you'll find in this directory was created with laser cutting in mind,
 so if you don't want to laser cut, change the settings on <http://builder.swillkb.com/>.
-> **Note:** Depending on your specific laser cutter you may need to change the kerf settings.
+> **Note:** Depending on your specific laser cutter you may need to change the kerf settings (currently at 2mm).
 
 The keycaps are also designed to work on MX style switches. If you wish to user different
 switches, you may need to model (or buy) your own keycaps.
