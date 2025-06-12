@@ -9,7 +9,7 @@ If I ever get to a point where naming is important, this will be the schema I wi
 h - handwired\
 p - PCB\
 s - split keyboard\
-\<keys\> - number of keys\
+\<keys\> - number of keys
 
 ## Keyboards
 The keyboards are listed in the order in which I made them (oldest first).
